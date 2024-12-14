@@ -12,4 +12,5 @@ Please click this [link] to see Flags and Capitals information application on we
 - [x] The application has three buttons: Start, Pause, and Reset.
 
 **Screenshot (GIF)**
+![HefIe5e7sV](https://github.com/user-attachments/assets/141f63d2-742b-4ad1-9776-f1e7014d73fa)
 
