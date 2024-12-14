@@ -1,0 +1,44 @@
+html{
+    background: #222831;
+    margin:0;
+    overflow: hidden;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /*แนวนอน*/
+    align-items: center; /*แนวตั้ง*/
+}
+.box{
+    width: 45rem;
+    text-align: center;
+    padding:0;
+}
+.time{
+    width: 100%;
+    font-size: 4rem;
+    background: #393E46;
+    padding: 4rem 5px;
+    border-radius: 10px;
+    color: #EEEEEE;
+    margin-bottom: 3rem;
+}
+button{
+    padding: 5px 1rem;
+    border: none;
+    outline: none;
+    margin: 5px 5px;
+    cursor: pointer;
+    color: white; /*ตัวอักษรสีขาว*/
+    border-radius: 3px;
+}
+.start{
+    background: limegreen;
+}
+.pause{
+    background: orange;
+}
+.reset{
+    background: red;
+}
